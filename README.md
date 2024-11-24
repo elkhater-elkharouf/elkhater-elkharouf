@@ -48,10 +48,16 @@ Feel free to explore my projects or reach out for collaboration! 💻
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#)
-[![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)](#)
+[![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-F89820?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=F89820)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](#)
+[![Jenkins Badge](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=D24939)](#)
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#)
+[![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)](#)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
+
 
 
 <!-- Github Stats   -->
