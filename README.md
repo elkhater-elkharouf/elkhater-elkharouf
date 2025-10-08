@@ -11,7 +11,7 @@
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
-👋 Hi, I’m Khater Khrouf, a full-stack engineer based in Tunis, specializing in Spring Boot and Angular. At 25 years old, I’m passionate about web development and love building innovative and efficient solutions. 🚀
+👋 Hi, I’m Khater Khrouf, a full-stack engineer based in France, specializing in Spring Boot and Angular. At 25 years old, I’m passionate about web development and love building innovative and efficient solutions. 🚀
 
 Feel free to explore my projects or reach out for collaboration! 💻
 
