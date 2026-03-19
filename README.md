@@ -71,9 +71,49 @@ status     : Open to collaboration 🤝
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=elkhater-elkharouf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=elkhater-elkharouf&theme=nord&no-frame=false&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+> ⚙️ **Pour activer l'animation snake**, crée un fichier `.github/workflows/snake.yml` dans ton repo `elkhater-elkharouf` avec le contenu ci-dessous, puis active GitHub Actions. L'image sera générée automatiquement chaque jour.
+
+<details>
+<summary>📋 Cliquer pour voir le workflow à copier</summary>
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: elkhater-elkharouf
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<!-- Une fois le workflow activé et la branche `output` créée, remplace ce commentaire par : -->
+<!-- <img src="https://raw.githubusercontent.com/elkhater-elkharouf/elkhater-elkharouf/output/github-contribution-grid-snake-dark.svg" /> -->
 
 ---
 
